@@ -4,7 +4,9 @@ Returns: a List of integers
 '''
 def moving_zeroes(arr):
     # Your code here
-    pass
+    #iterate through list
+    #compare element to zero
+    #zeros have indez changed to list length(-1)
 
 
 if __name__ == '__main__':
